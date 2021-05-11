@@ -1,2 +1,2 @@
-# ariya-mms.github.io
+# ariyadey.github.io
 My Personal Website
